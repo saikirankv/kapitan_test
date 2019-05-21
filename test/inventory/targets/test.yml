@@ -1,6 +1,6 @@
 classes:
   - A
   - B
-
+  
 parameters:
   target: test
