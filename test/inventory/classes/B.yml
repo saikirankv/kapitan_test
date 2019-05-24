@@ -1,5 +1,7 @@
 parameters:
   all_configs:
-   ~name:
-     test1: test2
-     test2: test3
+   ~name.One:
+     test_1: 
+      1: test3
+      2: test5
+     test_2: hello

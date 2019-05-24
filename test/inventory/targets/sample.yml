@@ -1,7 +1,6 @@
 classes:
-  - kapitan
   - A
   - B
-  
+  - kapitan 
 parameters:
   target: sample
